@@ -1,0 +1,24 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Basic project on webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igsekor/docker-node.git"
+  },
+  "keywords": [
+    "node",
+    "webpack",
+    "docker"
+  ],
+  "author": "Igor Korovchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igsekor/docker-node/issues"
+  },
+  "homepage": "https://github.com/igsekor/docker-node#readme"
+}
