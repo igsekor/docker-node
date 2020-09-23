@@ -1,4 +1,7 @@
 FROM node:lts-alpine
 WORKDIR /app
 COPY package*.json ./
-RUN npm install; npm install webpack webpack-cli --save-dev
+COPY babel.config.js ./
+COPY README.md ./
+COPY src/ ./src
+COPY public/ ./public
