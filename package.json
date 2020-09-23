@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpack-essential-project",
   "version": "1.0.0",
   "description": "Basic project on webpack",
   "main": "index.js",
